@@ -11,6 +11,5 @@ import java.lang.annotation.Target;
 @Target(ElementType.TYPE)//注解作用的目标
 @Retention(RetentionPolicy.SOURCE)//注解存在的范围
 public @interface NotRecommend {
-
     String value() default "";
 }
