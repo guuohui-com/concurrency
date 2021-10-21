@@ -17,7 +17,7 @@ public class DaemonThread {
         thread.setDaemon(true);
         thread.start();
 
-        new Thread(your ).start();;
+        new Thread(your ).start();
     }
 }
 
