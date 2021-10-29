@@ -14,7 +14,6 @@ import java.util.concurrent.CyclicBarrier;
 public class TestCyclicBarrier {
     public static void main(String[] args) {
         //集齐七颗龙珠 召唤神龙
-
         CyclicBarrier cyclicBarrier = new CyclicBarrier(7,()-> System.out.println("召唤神龙"));
         for (int i = 1; i <= 70; i++) {
             final int tem = i;
