@@ -1,4 +1,4 @@
-package com.ysu.concurrency.thread;
+package com.ysu.concurrency.thread.learnSynchronized;
 
 /**
  * @功能职责: 多线程操作同一个对象

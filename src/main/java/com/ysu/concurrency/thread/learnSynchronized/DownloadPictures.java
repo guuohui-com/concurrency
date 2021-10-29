@@ -1,4 +1,4 @@
-package com.ysu.concurrency.thread;
+package com.ysu.concurrency.thread.learnSynchronized;
 
 import org.apache.commons.io.FileUtils;
 

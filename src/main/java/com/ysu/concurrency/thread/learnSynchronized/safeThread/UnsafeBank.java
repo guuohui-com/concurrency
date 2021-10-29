@@ -1,4 +1,4 @@
-package com.ysu.concurrency.thread.safeThread;
+package com.ysu.concurrency.thread.learnSynchronized.safeThread;
 
 /**
  * @功能职责:

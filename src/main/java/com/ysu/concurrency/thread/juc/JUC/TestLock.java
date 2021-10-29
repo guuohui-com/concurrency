@@ -1,4 +1,4 @@
-package com.ysu.concurrency.thread.juc;
+package com.ysu.concurrency.thread.juc.JUC;
 
 import java.util.concurrent.locks.ReentrantLock;
 
