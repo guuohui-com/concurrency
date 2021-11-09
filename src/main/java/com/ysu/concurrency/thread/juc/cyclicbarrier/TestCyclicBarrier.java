@@ -1,4 +1,4 @@
-package com.ysu.concurrency.thread.juc.countDownLatch;
+package com.ysu.concurrency.thread.juc.cyclicbarrier;
 
 import java.util.concurrent.BrokenBarrierException;
 import java.util.concurrent.CyclicBarrier;

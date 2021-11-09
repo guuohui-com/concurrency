@@ -1,4 +1,4 @@
-package com.ysu.concurrency.thread.juc.countDownLatch;
+package com.ysu.concurrency.thread.juc.semaphore;
 
 import java.util.concurrent.Semaphore;
 import java.util.concurrent.TimeUnit;
